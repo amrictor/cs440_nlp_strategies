@@ -1,0 +1,42 @@
+frank	spongebob;16 action;18 
+robin williams	patchy;18 action;12 
+perch perkins	spongebob;20 action;16 
+potty	patchy;101 action;11 
+barnacle boy	spongebob;38 action;12 
+mr. krabs	karen;11 fred;13 spongebob&patrick;40 plankton;415 sandy;67 nat;17 patrick;191 frank;18 action;758 pearl;119 harold;14 squidward;693 gary;17 narrator;18 spongebob;2037 
+french narrator	action;65 spongebob;15 
+squilliam	squidward;26 
+flying dutchman	plankton;15 action;20 patrick;11 spongebob;64 
+man ray	patrick;19 spongebob;38 
+gary	action;63 spongebob;349 patrick;22 
+tom	spongebob;19 action;11 
+karen	sandy;14 action;77 spongebob;23 plankton;307 
+action	customer;20 johnny;27 potty;11 frank;17 both;37 narrator;43 plankton;473 stickyfins;19 larry;47 spongebob&patrick;64 squidward;793 fred;20 karen;89 harold;17 patrick;680 customers;11 narrator;36 patchy;74 sandy;364 spongebob;2218 action;126 pearl;46 nat;12 gary;64 
+patchy	action;69 potty;106 
+patrick	plankton;68 spongebob;3337 spongebob&patrick;50 patrick;28 gary;21 narrator;22 harold;12 both;16 sandy;157 action;750 squidward;448 
+plankton	plankton;15 spongebob;499 karen;301 nat;27 sandy;25 squidward;62 action;484 patrick;72 
+spongebob&patrick	patrick;44 action;68 spongebob;91 squidward;65 sandy;25 
+customers	action;17 spongebob;11 
+fred	spongebob;28 action;19 
+bubble bass	spongebob;20 
+kids	spongebob;15 action;11 
+pearl	sandy;11 spongebob;117 action;36 squidward;17 
+nat	action;15 plankton;25 spongebob;22 
+triton	spongebob;16 neptune;14 
+stickyfins	action;16 spongebob;13 
+mrs. puff	action;85 patrick;21 squidward;13 sandy;13 spongebob;280 
+harold	spongebob;32 nat;11 squidward;12 action;20 
+spongebuck	patrick;17 plankton;11 
+fuzzy acorns	sandy;13 spongebob;14 
+mermaid man	action;22 spongebob;47 
+both	action;37 patrick;16 spongebob;25 
+squidward	narrator;23 pearl;17 squidward;64 action;753 patrick;428 spongebob&patrick;66 plankton;68 squilliam;35 larry;11 sandy;91 gary;17 spongebob;2425 
+mama krabs	plankton;13 
+old man jenkins	spongebob;26 action;28 
+narrator	patrick;16 spongebob;77 action;37 squidward;26 
+neptune	triton;13 action;11 
+sandy	squidward;80 plankton;35 spongebob;754 action;357 spongebob&patrick;30 patrick;131 pearl;12 narrator;14 karen;19 
+johnny	spongebob;16 action;20 
+larry	action;53 patrick;12 squidward;11 spongebob;84 
+spongebob	tom;16 spongebob;12 action;2055 pearl;120 sandy;772 both;28 fred;23 narrator;22 kids;14 narrator;52 customer;20 squidward;2457 triton;15 harold;45 spongebob;187 gary;347 karen;24 nat;34 plankton;509 patrick;3549 larry;87 spongebob&patrick;62 frank;13 neptune;18 
+customer	squidward;12 spongebob;12 action;16 
